@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ColeDCrawford/gh-pages-wal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe seamless src="https://public.tableau.com/views/Stevenson/Lettersovertimebyaddresseeandmood?:language=en-US&:display_count=y&:origin=viz_share_link&:showVizHome=no">
+<iframe seamless src="https://public.tableau.com/views/Stevenson/Lettersovertimebyaddresseeandmood?:language=en-US&:display_count=y&:origin=viz_share_link&:showVizHome=no" width="800px" height="500px"></iframe>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
