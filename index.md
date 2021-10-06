@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/ColeDCrawford/gh-pages-wal
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <iframe seamless src="https://public.tableau.com/views/Stevenson/Lettersovertimebyaddresseeandmood?:language=en-US&:display_count=y&:origin=viz_share_link&:showVizHome=no" width="800px" height="500px"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -24,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://en.wikipedia.org/wiki/Robert_Louis_Stevenson) and Linked ![Image](https://upload.wikimedia.org/wikipedia/commons/f/f7/Robert_Louis_Stevenson_by_Henry_Walter_Barnett.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
